@@ -8,7 +8,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-> git clone 
+> git clone https://github.com/onuravan/kodluyoruzilkrepo.git
 
 ## Usage
 
